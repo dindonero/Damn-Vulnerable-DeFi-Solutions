@@ -1,4 +1,4 @@
-![](cover.png)
+# Damn Vulnerable DeFi Solutions
 
 **A set of challenges to learn offensive security of smart contracts in Ethereum.**
 
